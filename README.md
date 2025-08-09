@@ -1,15 +1,19 @@
-# Group Management System
+# 🚀 Group Management System
 
-A simple Node.js-based web application for user authentication and password management using MySQL.
+A simple and secure Node.js web application for **user authentication** and **password management** using **MySQL**. It features a clean UI built with **Handlebars** and **CSS**, along with modular routing and templating for easy extension.
 
-## Features
+---
 
-- User login with email and password
-- Change password functionality
-- Home page with navigation
-- Styled with CSS and Handlebars templates
+## ✨ Features
 
-## Project Structure
+- 🔐 User login with email and password  
+- 🔄 Password change functionality  
+- 🏠 Authenticated home page with navigation  
+- 🎨 Styled using custom CSS and Handlebars templates  
+
+---
+
+## 📁 Project Structure
 
 ```
 .env
